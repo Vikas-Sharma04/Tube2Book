@@ -1,0 +1,7 @@
+mistralai
+yt-dlp
+youtube-transcript-api
+python-dotenv
+streamlit
+markdown
+mdpdf
