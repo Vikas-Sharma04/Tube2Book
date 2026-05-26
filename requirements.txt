@@ -1,5 +1,5 @@
 mistralai
-yt-dlp
+yt-dlp==2025.5.22
 youtube-transcript-api
 python-dotenv
 streamlit
